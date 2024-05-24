@@ -22,7 +22,7 @@
         "osenv": "~0.0.3",
         "rimraf": "~2.1.4",
         "win-spawn": "~1.1.1",
-        "winston": "~0.7.2",
+        "winston": "~0.8.0",
         "yeti": "~0.2.24"
     },
     "devDependencies": {
